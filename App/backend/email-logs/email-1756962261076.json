@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-04T05:04:21.076Z",
+  "messageId": "test-1756962261076-kbw4plsvt",
+  "to": "shreyp693@gmail.com",
+  "cc": null,
+  "subject": "Hello",
+  "message": "Hello",
+  "attachments": [
+    {
+      "filename": "SHREY_PATEL_RESUME.pdf",
+      "size": 224032
+    }
+  ],
+  "status": "sent"
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-04T05:03:01.570Z",
+  "messageId": "test-1756962181570-6i72i7jdu",
+  "to": "shreyp683@gmail.com",
+  "cc": null,
+  "subject": "Hello FarmaForce",
+  "message": "Hello \r\nHow Are You??",
+  "attachments": [
+    {
+      "filename": "WhatsApp Image 2025-08-01 at 19.04.49_67c8bdf5.jpg",
+      "size": 2415333
+    }
+  ],
+  "status": "sent"
+}
